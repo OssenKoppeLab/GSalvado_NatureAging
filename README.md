@@ -1,3 +1,5 @@
-# Project_Gemma
+This repository contains the data analytical code supporting the following publication:
 
-**In this project, (...)***
+#  Plasma p-tau217 and Tau-PET predict future cognitive decline among cognitively unimpaired individuals: Implications for clinical trials
+
+
